@@ -1,0 +1,22 @@
+{
+  "name": "it-will-fly",
+  "version": "0.0.1",
+  "description": "It will fly",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./scripts/build.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmitrylap/itwillfly.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dmitrylap/itwillfly/issues"
+  },
+  "homepage": "https://github.com/dmitrylap/itwillfly#readme",
+  "dependencies": {
+    "serialport": "^6.0.4"
+  }
+}
