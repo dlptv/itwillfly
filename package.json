@@ -17,6 +17,12 @@
   },
   "homepage": "https://github.com/dmitrylap/itwillfly#readme",
   "dependencies": {
+    "gps": "^0.4.1",
     "serialport": "^6.0.4"
+  },
+  "devDependencies": {
+    "eslint": "^4.13.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0"
   }
 }
