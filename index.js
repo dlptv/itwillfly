@@ -1,25 +1,11 @@
 const SerialPort = require('serialport');
-const GPS = require('gps');
+const GPS = require('./src/gps');
 
-const { parsers } = SerialPort;
+const PORT_PATH = 'dev/ttyUSB3';
+const BAUD_RATE = 115200;
 
-const port = new SerialPort('/dev/ttyUSB3', {
-  baudRate: 115200,
-});
+const port = new SerialPort(PORT_PATH, { baudRate: BAUD_RATE });
 
-const parser = new parsers.Readline({
-  delimiter: '\n',
-});
-
-port.pipe(parser);
-
-
-const gps = new GPS();
-
-parser.on('data', (data) => {
-  gps.update(data);
-});
-
-gps.on('data', () => {
-  console.log(gps.state);
+GPS.createListener(port, (data) => {
+  console.log(data);
 });
