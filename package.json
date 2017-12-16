@@ -18,8 +18,11 @@
   },
   "homepage": "https://github.com/dmitrylap/itwillfly#readme",
   "dependencies": {
+    "@mapbox/togeojson": "^0.16.0",
     "gps": "^0.4.1",
-    "serialport": "^6.0.4"
+    "lodash": "^4.17.4",
+    "serialport": "^6.0.4",
+    "xmldom": "^0.1.27"
   },
   "devDependencies": {
     "eslint": "^4.13.1",
