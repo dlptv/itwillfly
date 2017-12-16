@@ -14,7 +14,8 @@ test('GPS module reads RMC data from port', (done) => {
   MockBinding.createPort(portPath, { echo: false, record: false });
   const port = new SerialPort(portPath, { baudRate: 115200 });
 
-  GPS.createListener(port, (data) => {
+  const gpsObservable = GPS.createObservable(port);
+  gpsObservable.subscribe((data) => {
     const expectedData = {
       time: new Date('2017-12-12T18:23:25.921Z'), lat: 59.05983333333333, lon: 5.933033333333333, speed: 35.9288, track: 127.8,
     };
