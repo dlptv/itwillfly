@@ -1,31 +1,18 @@
 const SerialPort = require('serialport');
 const GPS = require('gps');
+const Rx = require('rxjs/Rx');
 
 const createParser = () => new SerialPort.parsers.Readline({
   delimiter: '\n',
 });
 
-const linkPortWithParser = (port, parser) => port.pipe(parser);
-
-const createGPS = () => new GPS();
-const linkGpsWithParser = (gps, port) => {
-  port.on('data', (data) => {
-    if (data.startsWith('$GPRMC')) {
-      gps.update(data);
-    }
-  });
-};
-
-const getState = gps => gps.state;
-
-const createListener = (port, eventListener) => {
+const createObservable = (port) => {
   const parser = createParser();
-  linkPortWithParser(port, parser);
+  port.pipe(parser);
 
-  const gps = createGPS();
-  linkGpsWithParser(gps, parser);
-
-  gps.on('data', () => eventListener(getState(gps)));
+  return Rx.Observable.fromEvent(parser, 'data')
+    .filter(data => data.startsWith('$GPRMC'))
+    .map(data => GPS.Parse(data));
 };
 
-module.exports = { createListener };
+module.exports = { createObservable };
