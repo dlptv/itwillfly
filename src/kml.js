@@ -10,7 +10,11 @@ const loadKML = path => fp.compose(
 )(path, 'utf8');
 
 const loadPoints = fp.compose(
-  fp.map(feature => ({ coordinates: feature.geometry.coordinates, name: feature.properties.name })),
+  fp.map(feature => ({
+    lat: feature.geometry.coordinates[1],
+    lon: feature.geometry.coordinates[0],
+    name: feature.properties.name,
+  })),
   fp.get('features'),
   loadKML,
 );
