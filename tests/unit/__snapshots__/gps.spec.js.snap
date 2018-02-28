@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GPS module reads RMC data from port 1`] = `
+Object {
+  "faa": null,
+  "lat": 59.05983333333333,
+  "lon": 5.933033333333333,
+  "raw": "$GPRMC,182325.921,A,5903.590,N,00555.982,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:25.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
