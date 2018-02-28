@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`KML parser should read file and return correct geoJSON 1`] = `
+Object {
+  "features": Array [
+    Object {
+      "geometry": Object {
+        "coordinates": Array [
+          6.01845045999994,
+          59.04661153,
+          0,
+        ],
+        "type": "Point",
+      },
+      "properties": Object {
+        "name": "1",
+        "styleHash": "-68688fa4",
+        "styleMapHash": Object {
+          "highlight": "#icon-1899-0288D1-nodesc-highlight",
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+        },
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+      },
+      "type": "Feature",
+    },
+    Object {
+      "geometry": Object {
+        "coordinates": Array [
+          6.30284634999998,
+          59.08882076,
+          0,
+        ],
+        "type": "Point",
+      },
+      "properties": Object {
+        "name": "2",
+        "styleHash": "-68688fa4",
+        "styleMapHash": Object {
+          "highlight": "#icon-1899-0288D1-nodesc-highlight",
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+        },
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+      },
+      "type": "Feature",
+    },
+    Object {
+      "geometry": Object {
+        "coordinates": Array [
+          6.57871367000007,
+          59.06561761,
+          0,
+        ],
+        "type": "Point",
+      },
+      "properties": Object {
+        "name": "3",
+        "styleHash": "-68688fa4",
+        "styleMapHash": Object {
+          "highlight": "#icon-1899-0288D1-nodesc-highlight",
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+        },
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+      },
+      "type": "Feature",
+    },
+    Object {
+      "geometry": Object {
+        "coordinates": Array [
+          6.50055946999998,
+          59.14423978,
+          0,
+        ],
+        "type": "Point",
+      },
+      "properties": Object {
+        "name": "finish",
+        "styleHash": "-68688fa4",
+        "styleMapHash": Object {
+          "highlight": "#icon-1899-0288D1-nodesc-highlight",
+          "normal": "#icon-1899-0288D1-nodesc-normal",
+        },
+        "styleUrl": "#icon-1899-0288D1-nodesc",
+      },
+      "type": "Feature",
+    },
+  ],
+  "type": "FeatureCollection",
+}
+`;
+
+exports[`KML parser should read file and return list of points 1`] = `
+Array [
+  Object {
+    "lat": 59.04661153,
+    "lon": 6.01845045999994,
+    "name": "1",
+  },
+  Object {
+    "lat": 59.08882076,
+    "lon": 6.30284634999998,
+    "name": "2",
+  },
+  Object {
+    "lat": 59.06561761,
+    "lon": 6.57871367000007,
+    "name": "3",
+  },
+  Object {
+    "lat": 59.14423978,
+    "lon": 6.50055946999998,
+    "name": "finish",
+  },
+]
+`;
