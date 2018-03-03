@@ -3,6 +3,1094 @@
 exports[`GPS module reads RMC data from port 1`] = `
 Object {
   "faa": null,
+  "lat": 59.06491666666667,
+  "lon": 5.926433333333334,
+  "raw": "$GPRMC,182217.921,A,5903.895,N,00555.586,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:17.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 2`] = `
+Object {
+  "faa": null,
+  "lat": 59.06485,
+  "lon": 5.926533333333333,
+  "raw": "$GPRMC,182218.921,A,5903.891,N,00555.592,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:18.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 3`] = `
+Object {
+  "faa": null,
+  "lat": 59.064766666666664,
+  "lon": 5.926633333333333,
+  "raw": "$GPRMC,182219.921,A,5903.886,N,00555.598,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:19.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 4`] = `
+Object {
+  "faa": null,
+  "lat": 59.0647,
+  "lon": 5.926733333333333,
+  "raw": "$GPRMC,182220.921,A,5903.882,N,00555.604,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:20.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 5`] = `
+Object {
+  "faa": null,
+  "lat": 59.064616666666666,
+  "lon": 5.926833333333334,
+  "raw": "$GPRMC,182221.921,A,5903.877,N,00555.610,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:21.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 6`] = `
+Object {
+  "faa": null,
+  "lat": 59.06455,
+  "lon": 5.926916666666667,
+  "raw": "$GPRMC,182222.921,A,5903.873,N,00555.615,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:22.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 7`] = `
+Object {
+  "faa": null,
+  "lat": 59.06446666666667,
+  "lon": 5.927016666666667,
+  "raw": "$GPRMC,182223.921,A,5903.868,N,00555.621,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:23.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 8`] = `
+Object {
+  "faa": null,
+  "lat": 59.0644,
+  "lon": 5.927116666666667,
+  "raw": "$GPRMC,182224.921,A,5903.864,N,00555.627,E,019.4,127.8,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:24.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 9`] = `
+Object {
+  "faa": null,
+  "lat": 59.06431666666667,
+  "lon": 5.927216666666666,
+  "raw": "$GPRMC,182225.921,A,5903.859,N,00555.633,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:25.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 10`] = `
+Object {
+  "faa": null,
+  "lat": 59.06425,
+  "lon": 5.927316666666667,
+  "raw": "$GPRMC,182226.921,A,5903.855,N,00555.639,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:26.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 11`] = `
+Object {
+  "faa": null,
+  "lat": 59.064166666666665,
+  "lon": 5.9274000000000004,
+  "raw": "$GPRMC,182227.921,A,5903.850,N,00555.644,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:27.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 12`] = `
+Object {
+  "faa": null,
+  "lat": 59.0641,
+  "lon": 5.9275,
+  "raw": "$GPRMC,182228.921,A,5903.846,N,00555.650,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:28.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 13`] = `
+Object {
+  "faa": null,
+  "lat": 59.06401666666667,
+  "lon": 5.9276,
+  "raw": "$GPRMC,182229.921,A,5903.841,N,00555.656,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:29.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 14`] = `
+Object {
+  "faa": null,
+  "lat": 59.06395,
+  "lon": 5.9277,
+  "raw": "$GPRMC,182230.921,A,5903.837,N,00555.662,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:30.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 15`] = `
+Object {
+  "faa": null,
+  "lat": 59.06386666666667,
+  "lon": 5.9277999999999995,
+  "raw": "$GPRMC,182231.921,A,5903.832,N,00555.668,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:31.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 16`] = `
+Object {
+  "faa": null,
+  "lat": 59.0638,
+  "lon": 5.9279,
+  "raw": "$GPRMC,182232.921,A,5903.828,N,00555.674,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:32.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 17`] = `
+Object {
+  "faa": null,
+  "lat": 59.063716666666664,
+  "lon": 5.927983333333334,
+  "raw": "$GPRMC,182233.921,A,5903.823,N,00555.679,E,019.4,127.8,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:33.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 18`] = `
+Object {
+  "faa": null,
+  "lat": 59.06365,
+  "lon": 5.928083333333333,
+  "raw": "$GPRMC,182234.921,A,5903.819,N,00555.685,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:34.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 19`] = `
+Object {
+  "faa": null,
+  "lat": 59.06356666666667,
+  "lon": 5.928183333333333,
+  "raw": "$GPRMC,182235.921,A,5903.814,N,00555.691,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:35.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 20`] = `
+Object {
+  "faa": null,
+  "lat": 59.0635,
+  "lon": 5.928283333333333,
+  "raw": "$GPRMC,182236.921,A,5903.810,N,00555.697,E,019.4,127.8,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:36.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 21`] = `
+Object {
+  "faa": null,
+  "lat": 59.06341666666667,
+  "lon": 5.928383333333334,
+  "raw": "$GPRMC,182237.921,A,5903.805,N,00555.703,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:37.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 22`] = `
+Object {
+  "faa": null,
+  "lat": 59.06335,
+  "lon": 5.928466666666667,
+  "raw": "$GPRMC,182238.921,A,5903.801,N,00555.708,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:38.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 23`] = `
+Object {
+  "faa": null,
+  "lat": 59.063266666666664,
+  "lon": 5.928566666666667,
+  "raw": "$GPRMC,182239.921,A,5903.796,N,00555.714,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:39.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 24`] = `
+Object {
+  "faa": null,
+  "lat": 59.0632,
+  "lon": 5.9286666666666665,
+  "raw": "$GPRMC,182240.921,A,5903.792,N,00555.720,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:40.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 25`] = `
+Object {
+  "faa": null,
+  "lat": 59.063116666666666,
+  "lon": 5.928766666666666,
+  "raw": "$GPRMC,182241.921,A,5903.787,N,00555.726,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:41.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 26`] = `
+Object {
+  "faa": null,
+  "lat": 59.06305,
+  "lon": 5.928866666666667,
+  "raw": "$GPRMC,182242.921,A,5903.783,N,00555.732,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:42.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 27`] = `
+Object {
+  "faa": null,
+  "lat": 59.06296666666667,
+  "lon": 5.928966666666667,
+  "raw": "$GPRMC,182243.921,A,5903.778,N,00555.738,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:43.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 28`] = `
+Object {
+  "faa": null,
+  "lat": 59.0629,
+  "lon": 5.92905,
+  "raw": "$GPRMC,182244.921,A,5903.774,N,00555.743,E,019.4,127.8,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:44.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 29`] = `
+Object {
+  "faa": null,
+  "lat": 59.06281666666667,
+  "lon": 5.92915,
+  "raw": "$GPRMC,182245.921,A,5903.769,N,00555.749,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:45.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 30`] = `
+Object {
+  "faa": null,
+  "lat": 59.06275,
+  "lon": 5.92925,
+  "raw": "$GPRMC,182246.921,A,5903.765,N,00555.755,E,019.4,127.8,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:46.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 31`] = `
+Object {
+  "faa": null,
+  "lat": 59.062666666666665,
+  "lon": 5.92935,
+  "raw": "$GPRMC,182247.921,A,5903.760,N,00555.761,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:47.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 32`] = `
+Object {
+  "faa": null,
+  "lat": 59.0626,
+  "lon": 5.92945,
+  "raw": "$GPRMC,182248.921,A,5903.756,N,00555.767,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:48.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 33`] = `
+Object {
+  "faa": null,
+  "lat": 59.06251666666667,
+  "lon": 5.92955,
+  "raw": "$GPRMC,182249.921,A,5903.751,N,00555.773,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:49.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 34`] = `
+Object {
+  "faa": null,
+  "lat": 59.06245,
+  "lon": 5.929633333333333,
+  "raw": "$GPRMC,182250.921,A,5903.747,N,00555.778,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:50.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 35`] = `
+Object {
+  "faa": null,
+  "lat": 59.06236666666667,
+  "lon": 5.929733333333333,
+  "raw": "$GPRMC,182251.921,A,5903.742,N,00555.784,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:51.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 36`] = `
+Object {
+  "faa": null,
+  "lat": 59.0623,
+  "lon": 5.929833333333333,
+  "raw": "$GPRMC,182252.921,A,5903.738,N,00555.790,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:52.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 37`] = `
+Object {
+  "faa": null,
+  "lat": 59.06223333333333,
+  "lon": 5.9299333333333335,
+  "raw": "$GPRMC,182253.921,A,5903.734,N,00555.796,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:53.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 38`] = `
+Object {
+  "faa": null,
+  "lat": 59.06215,
+  "lon": 5.930033333333333,
+  "raw": "$GPRMC,182254.921,A,5903.729,N,00555.802,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:54.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 39`] = `
+Object {
+  "faa": null,
+  "lat": 59.062083333333334,
+  "lon": 5.930116666666667,
+  "raw": "$GPRMC,182255.921,A,5903.725,N,00555.807,E,019.4,127.8,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:55.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 40`] = `
+Object {
+  "faa": null,
+  "lat": 59.062,
+  "lon": 5.9302166666666665,
+  "raw": "$GPRMC,182256.921,A,5903.720,N,00555.813,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:56.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 41`] = `
+Object {
+  "faa": null,
+  "lat": 59.061933333333336,
+  "lon": 5.930316666666666,
+  "raw": "$GPRMC,182257.921,A,5903.716,N,00555.819,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:57.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 42`] = `
+Object {
+  "faa": null,
+  "lat": 59.06185,
+  "lon": 5.930416666666667,
+  "raw": "$GPRMC,182258.921,A,5903.711,N,00555.825,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:58.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 43`] = `
+Object {
+  "faa": null,
+  "lat": 59.06178333333333,
+  "lon": 5.930516666666667,
+  "raw": "$GPRMC,182259.921,A,5903.707,N,00555.831,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:22:59.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 44`] = `
+Object {
+  "faa": null,
+  "lat": 59.0617,
+  "lon": 5.930616666666666,
+  "raw": "$GPRMC,182300.921,A,5903.702,N,00555.837,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:00.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 45`] = `
+Object {
+  "faa": null,
+  "lat": 59.06163333333333,
+  "lon": 5.9307,
+  "raw": "$GPRMC,182301.921,A,5903.698,N,00555.842,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:01.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 46`] = `
+Object {
+  "faa": null,
+  "lat": 59.06155,
+  "lon": 5.9308,
+  "raw": "$GPRMC,182302.921,A,5903.693,N,00555.848,E,019.4,127.8,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:02.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 47`] = `
+Object {
+  "faa": null,
+  "lat": 59.061483333333335,
+  "lon": 5.9309,
+  "raw": "$GPRMC,182303.921,A,5903.689,N,00555.854,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:03.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 48`] = `
+Object {
+  "faa": null,
+  "lat": 59.0614,
+  "lon": 5.931,
+  "raw": "$GPRMC,182304.921,A,5903.684,N,00555.860,E,019.4,127.8,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:04.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 49`] = `
+Object {
+  "faa": null,
+  "lat": 59.06133333333333,
+  "lon": 5.9311,
+  "raw": "$GPRMC,182305.921,A,5903.680,N,00555.866,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:05.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 50`] = `
+Object {
+  "faa": null,
+  "lat": 59.06125,
+  "lon": 5.931183333333333,
+  "raw": "$GPRMC,182306.921,A,5903.675,N,00555.871,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:06.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 51`] = `
+Object {
+  "faa": null,
+  "lat": 59.06118333333333,
+  "lon": 5.931283333333333,
+  "raw": "$GPRMC,182307.921,A,5903.671,N,00555.877,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:07.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 52`] = `
+Object {
+  "faa": null,
+  "lat": 59.0611,
+  "lon": 5.931383333333334,
+  "raw": "$GPRMC,182308.921,A,5903.666,N,00555.883,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:08.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 53`] = `
+Object {
+  "faa": null,
+  "lat": 59.061033333333334,
+  "lon": 5.931483333333333,
+  "raw": "$GPRMC,182309.921,A,5903.662,N,00555.889,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:09.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 54`] = `
+Object {
+  "faa": null,
+  "lat": 59.06095,
+  "lon": 5.931583333333333,
+  "raw": "$GPRMC,182310.921,A,5903.657,N,00555.895,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:10.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 55`] = `
+Object {
+  "faa": null,
+  "lat": 59.06088333333334,
+  "lon": 5.931683333333334,
+  "raw": "$GPRMC,182311.921,A,5903.653,N,00555.901,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:11.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 56`] = `
+Object {
+  "faa": null,
+  "lat": 59.0608,
+  "lon": 5.931766666666666,
+  "raw": "$GPRMC,182312.921,A,5903.648,N,00555.906,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:12.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 57`] = `
+Object {
+  "faa": null,
+  "lat": 59.06073333333333,
+  "lon": 5.931866666666666,
+  "raw": "$GPRMC,182313.921,A,5903.644,N,00555.912,E,019.4,127.8,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:13.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 58`] = `
+Object {
+  "faa": null,
+  "lat": 59.06065,
+  "lon": 5.931966666666667,
+  "raw": "$GPRMC,182314.921,A,5903.639,N,00555.918,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:14.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 59`] = `
+Object {
+  "faa": null,
+  "lat": 59.060583333333334,
+  "lon": 5.932066666666667,
+  "raw": "$GPRMC,182315.921,A,5903.635,N,00555.924,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:15.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 60`] = `
+Object {
+  "faa": null,
+  "lat": 59.0605,
+  "lon": 5.932166666666666,
+  "raw": "$GPRMC,182316.921,A,5903.630,N,00555.930,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:16.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 61`] = `
+Object {
+  "faa": null,
+  "lat": 59.060433333333336,
+  "lon": 5.932266666666667,
+  "raw": "$GPRMC,182317.921,A,5903.626,N,00555.936,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:17.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 62`] = `
+Object {
+  "faa": null,
+  "lat": 59.06035,
+  "lon": 5.93235,
+  "raw": "$GPRMC,182318.921,A,5903.621,N,00555.941,E,019.4,127.8,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:18.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 63`] = `
+Object {
+  "faa": null,
+  "lat": 59.06028333333333,
+  "lon": 5.93245,
+  "raw": "$GPRMC,182319.921,A,5903.617,N,00555.947,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:19.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 64`] = `
+Object {
+  "faa": null,
+  "lat": 59.0602,
+  "lon": 5.93255,
+  "raw": "$GPRMC,182320.921,A,5903.612,N,00555.953,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:20.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 65`] = `
+Object {
+  "faa": null,
+  "lat": 59.06013333333333,
+  "lon": 5.93265,
+  "raw": "$GPRMC,182321.921,A,5903.608,N,00555.959,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:21.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 66`] = `
+Object {
+  "faa": null,
+  "lat": 59.06005,
+  "lon": 5.93275,
+  "raw": "$GPRMC,182322.921,A,5903.603,N,00555.965,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:22.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 67`] = `
+Object {
+  "faa": null,
+  "lat": 59.059983333333335,
+  "lon": 5.932833333333333,
+  "raw": "$GPRMC,182323.921,A,5903.599,N,00555.970,E,019.4,127.8,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:23.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 68`] = `
+Object {
+  "faa": null,
+  "lat": 59.0599,
+  "lon": 5.932933333333334,
+  "raw": "$GPRMC,182324.921,A,5903.594,N,00555.976,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:24.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 69`] = `
+Object {
+  "faa": null,
   "lat": 59.05983333333333,
   "lon": 5.933033333333333,
   "raw": "$GPRMC,182325.921,A,5903.590,N,00555.982,E,019.4,127.8,121217,000.0,W*7C",
@@ -10,6 +1098,4086 @@ Object {
   "status": "active",
   "time": 2017-12-12T18:23:25.921Z,
   "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 70`] = `
+Object {
+  "faa": null,
+  "lat": 59.05975,
+  "lon": 5.933133333333333,
+  "raw": "$GPRMC,182326.921,A,5903.585,N,00555.988,E,019.4,127.8,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:26.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 71`] = `
+Object {
+  "faa": null,
+  "lat": 59.05968333333333,
+  "lon": 5.933233333333334,
+  "raw": "$GPRMC,182327.921,A,5903.581,N,00555.994,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:27.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 72`] = `
+Object {
+  "faa": null,
+  "lat": 59.0596,
+  "lon": 5.933333333333334,
+  "raw": "$GPRMC,182328.921,A,5903.576,N,00556.000,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:28.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 73`] = `
+Object {
+  "faa": null,
+  "lat": 59.059533333333334,
+  "lon": 5.933416666666667,
+  "raw": "$GPRMC,182329.921,A,5903.572,N,00556.005,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:29.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 74`] = `
+Object {
+  "faa": null,
+  "lat": 59.05945,
+  "lon": 5.933516666666667,
+  "raw": "$GPRMC,182330.921,A,5903.567,N,00556.011,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:30.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 75`] = `
+Object {
+  "faa": null,
+  "lat": 59.05938333333334,
+  "lon": 5.9336166666666665,
+  "raw": "$GPRMC,182331.921,A,5903.563,N,00556.017,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:31.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 76`] = `
+Object {
+  "faa": null,
+  "lat": 59.0593,
+  "lon": 5.933716666666667,
+  "raw": "$GPRMC,182332.921,A,5903.558,N,00556.023,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:32.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 77`] = `
+Object {
+  "faa": null,
+  "lat": 59.05923333333333,
+  "lon": 5.933816666666667,
+  "raw": "$GPRMC,182333.921,A,5903.554,N,00556.029,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:33.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 78`] = `
+Object {
+  "faa": null,
+  "lat": 59.05915,
+  "lon": 5.9338999999999995,
+  "raw": "$GPRMC,182334.921,A,5903.549,N,00556.034,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:34.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 79`] = `
+Object {
+  "faa": null,
+  "lat": 59.059083333333334,
+  "lon": 5.934,
+  "raw": "$GPRMC,182335.921,A,5903.545,N,00556.040,E,019.4,127.8,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:35.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 80`] = `
+Object {
+  "faa": null,
+  "lat": 59.059,
+  "lon": 5.9341,
+  "raw": "$GPRMC,182336.921,A,5903.540,N,00556.046,E,019.4,127.8,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:36.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 81`] = `
+Object {
+  "faa": null,
+  "lat": 59.058933333333336,
+  "lon": 5.9342,
+  "raw": "$GPRMC,182337.921,A,5903.536,N,00556.052,E,019.4,127.8,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:37.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 82`] = `
+Object {
+  "faa": null,
+  "lat": 59.05885,
+  "lon": 5.9343,
+  "raw": "$GPRMC,182338.921,A,5903.531,N,00556.058,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:38.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 83`] = `
+Object {
+  "faa": null,
+  "lat": 59.05878333333333,
+  "lon": 5.9344,
+  "raw": "$GPRMC,182339.921,A,5903.527,N,00556.064,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:39.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 84`] = `
+Object {
+  "faa": null,
+  "lat": 59.0587,
+  "lon": 5.9344833333333336,
+  "raw": "$GPRMC,182340.921,A,5903.522,N,00556.069,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:40.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 85`] = `
+Object {
+  "faa": null,
+  "lat": 59.05863333333333,
+  "lon": 5.934583333333333,
+  "raw": "$GPRMC,182341.921,A,5903.518,N,00556.075,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:41.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 86`] = `
+Object {
+  "faa": null,
+  "lat": 59.058566666666664,
+  "lon": 5.934683333333333,
+  "raw": "$GPRMC,182342.921,A,5903.514,N,00556.081,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:42.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 87`] = `
+Object {
+  "faa": null,
+  "lat": 59.058483333333335,
+  "lon": 5.934783333333334,
+  "raw": "$GPRMC,182343.921,A,5903.509,N,00556.087,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:43.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 88`] = `
+Object {
+  "faa": null,
+  "lat": 59.058416666666666,
+  "lon": 5.9348833333333335,
+  "raw": "$GPRMC,182344.921,A,5903.505,N,00556.093,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:44.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 89`] = `
+Object {
+  "faa": null,
+  "lat": 59.05833333333333,
+  "lon": 5.934983333333333,
+  "raw": "$GPRMC,182345.921,A,5903.500,N,00556.099,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:45.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 90`] = `
+Object {
+  "faa": null,
+  "lat": 59.05826666666667,
+  "lon": 5.935066666666667,
+  "raw": "$GPRMC,182346.921,A,5903.496,N,00556.104,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:46.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 91`] = `
+Object {
+  "faa": null,
+  "lat": 59.05818333333333,
+  "lon": 5.9351666666666665,
+  "raw": "$GPRMC,182347.921,A,5903.491,N,00556.110,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:47.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 92`] = `
+Object {
+  "faa": null,
+  "lat": 59.05811666666666,
+  "lon": 5.935266666666667,
+  "raw": "$GPRMC,182348.921,A,5903.487,N,00556.116,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:48.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 93`] = `
+Object {
+  "faa": null,
+  "lat": 59.058033333333334,
+  "lon": 5.935366666666667,
+  "raw": "$GPRMC,182349.921,A,5903.482,N,00556.122,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:49.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 94`] = `
+Object {
+  "faa": null,
+  "lat": 59.057966666666665,
+  "lon": 5.935466666666667,
+  "raw": "$GPRMC,182350.921,A,5903.478,N,00556.128,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:50.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 95`] = `
+Object {
+  "faa": null,
+  "lat": 59.057883333333336,
+  "lon": 5.93555,
+  "raw": "$GPRMC,182351.921,A,5903.473,N,00556.133,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:51.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 96`] = `
+Object {
+  "faa": null,
+  "lat": 59.05781666666667,
+  "lon": 5.93565,
+  "raw": "$GPRMC,182352.921,A,5903.469,N,00556.139,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:52.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 97`] = `
+Object {
+  "faa": null,
+  "lat": 59.05773333333333,
+  "lon": 5.9357500000000005,
+  "raw": "$GPRMC,182353.921,A,5903.464,N,00556.145,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:53.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 98`] = `
+Object {
+  "faa": null,
+  "lat": 59.05766666666667,
+  "lon": 5.93585,
+  "raw": "$GPRMC,182354.921,A,5903.460,N,00556.151,E,019.4,127.8,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:54.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 99`] = `
+Object {
+  "faa": null,
+  "lat": 59.05758333333333,
+  "lon": 5.93595,
+  "raw": "$GPRMC,182355.921,A,5903.455,N,00556.157,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:55.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 100`] = `
+Object {
+  "faa": null,
+  "lat": 59.057516666666665,
+  "lon": 5.93605,
+  "raw": "$GPRMC,182356.921,A,5903.451,N,00556.163,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:56.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 101`] = `
+Object {
+  "faa": null,
+  "lat": 59.057433333333336,
+  "lon": 5.936133333333333,
+  "raw": "$GPRMC,182357.921,A,5903.446,N,00556.168,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:57.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 102`] = `
+Object {
+  "faa": null,
+  "lat": 59.05736666666667,
+  "lon": 5.936233333333333,
+  "raw": "$GPRMC,182358.921,A,5903.442,N,00556.174,E,019.4,127.8,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:58.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 103`] = `
+Object {
+  "faa": null,
+  "lat": 59.05728333333333,
+  "lon": 5.936333333333334,
+  "raw": "$GPRMC,182359.921,A,5903.437,N,00556.180,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:23:59.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 104`] = `
+Object {
+  "faa": null,
+  "lat": 59.05721666666667,
+  "lon": 5.9364333333333335,
+  "raw": "$GPRMC,182400.921,A,5903.433,N,00556.186,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:00.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 105`] = `
+Object {
+  "faa": null,
+  "lat": 59.05713333333333,
+  "lon": 5.936533333333333,
+  "raw": "$GPRMC,182401.921,A,5903.428,N,00556.192,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:01.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 106`] = `
+Object {
+  "faa": null,
+  "lat": 59.057066666666664,
+  "lon": 5.936616666666667,
+  "raw": "$GPRMC,182402.921,A,5903.424,N,00556.197,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:02.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 107`] = `
+Object {
+  "faa": null,
+  "lat": 59.056983333333335,
+  "lon": 5.936716666666666,
+  "raw": "$GPRMC,182403.921,A,5903.419,N,00556.203,E,019.4,127.8,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:03.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 108`] = `
+Object {
+  "faa": null,
+  "lat": 59.056916666666666,
+  "lon": 5.936816666666667,
+  "raw": "$GPRMC,182404.921,A,5903.415,N,00556.209,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:04.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 109`] = `
+Object {
+  "faa": null,
+  "lat": 59.05683333333333,
+  "lon": 5.936916666666667,
+  "raw": "$GPRMC,182405.921,A,5903.410,N,00556.215,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:05.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 110`] = `
+Object {
+  "faa": null,
+  "lat": 59.05676666666667,
+  "lon": 5.937016666666667,
+  "raw": "$GPRMC,182406.921,A,5903.406,N,00556.221,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:06.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 111`] = `
+Object {
+  "faa": null,
+  "lat": 59.05668333333333,
+  "lon": 5.937116666666666,
+  "raw": "$GPRMC,182407.921,A,5903.401,N,00556.227,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:07.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 112`] = `
+Object {
+  "faa": null,
+  "lat": 59.05661666666666,
+  "lon": 5.9372,
+  "raw": "$GPRMC,182408.921,A,5903.397,N,00556.232,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:08.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 113`] = `
+Object {
+  "faa": null,
+  "lat": 59.056533333333334,
+  "lon": 5.9373000000000005,
+  "raw": "$GPRMC,182409.921,A,5903.392,N,00556.238,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:09.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 114`] = `
+Object {
+  "faa": null,
+  "lat": 59.056466666666665,
+  "lon": 5.9374,
+  "raw": "$GPRMC,182410.921,A,5903.388,N,00556.244,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:10.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 115`] = `
+Object {
+  "faa": null,
+  "lat": 59.056383333333336,
+  "lon": 5.9375,
+  "raw": "$GPRMC,182411.921,A,5903.383,N,00556.250,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:11.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 116`] = `
+Object {
+  "faa": null,
+  "lat": 59.05631666666667,
+  "lon": 5.9376,
+  "raw": "$GPRMC,182412.921,A,5903.379,N,00556.256,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:12.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 117`] = `
+Object {
+  "faa": null,
+  "lat": 59.05623333333333,
+  "lon": 5.9376999999999995,
+  "raw": "$GPRMC,182413.921,A,5903.374,N,00556.262,E,019.4,127.8,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:13.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 118`] = `
+Object {
+  "faa": null,
+  "lat": 59.05616666666667,
+  "lon": 5.937783333333334,
+  "raw": "$GPRMC,182414.921,A,5903.370,N,00556.267,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:14.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 119`] = `
+Object {
+  "faa": null,
+  "lat": 59.05608333333333,
+  "lon": 5.937883333333334,
+  "raw": "$GPRMC,182415.921,A,5903.365,N,00556.273,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:15.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 120`] = `
+Object {
+  "faa": null,
+  "lat": 59.056016666666665,
+  "lon": 5.937983333333333,
+  "raw": "$GPRMC,182416.921,A,5903.361,N,00556.279,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:16.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 121`] = `
+Object {
+  "faa": null,
+  "lat": 59.055933333333336,
+  "lon": 5.938083333333333,
+  "raw": "$GPRMC,182417.921,A,5903.356,N,00556.285,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:17.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 122`] = `
+Object {
+  "faa": null,
+  "lat": 59.05586666666667,
+  "lon": 5.938183333333333,
+  "raw": "$GPRMC,182418.921,A,5903.352,N,00556.291,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:18.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 123`] = `
+Object {
+  "faa": null,
+  "lat": 59.05578333333333,
+  "lon": 5.938266666666666,
+  "raw": "$GPRMC,182419.921,A,5903.347,N,00556.296,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:19.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 124`] = `
+Object {
+  "faa": null,
+  "lat": 59.05571666666667,
+  "lon": 5.938366666666667,
+  "raw": "$GPRMC,182420.921,A,5903.343,N,00556.302,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:20.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 125`] = `
+Object {
+  "faa": null,
+  "lat": 59.05563333333333,
+  "lon": 5.938466666666667,
+  "raw": "$GPRMC,182421.921,A,5903.338,N,00556.308,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:21.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 126`] = `
+Object {
+  "faa": null,
+  "lat": 59.055566666666664,
+  "lon": 5.9385666666666665,
+  "raw": "$GPRMC,182422.921,A,5903.334,N,00556.314,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:22.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 127`] = `
+Object {
+  "faa": null,
+  "lat": 59.055483333333335,
+  "lon": 5.938666666666666,
+  "raw": "$GPRMC,182423.921,A,5903.329,N,00556.320,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:23.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 128`] = `
+Object {
+  "faa": null,
+  "lat": 59.055416666666666,
+  "lon": 5.938766666666667,
+  "raw": "$GPRMC,182424.921,A,5903.325,N,00556.326,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:24.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 129`] = `
+Object {
+  "faa": null,
+  "lat": 59.05533333333333,
+  "lon": 5.93885,
+  "raw": "$GPRMC,182425.921,A,5903.320,N,00556.331,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:25.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 130`] = `
+Object {
+  "faa": null,
+  "lat": 59.05526666666667,
+  "lon": 5.93895,
+  "raw": "$GPRMC,182426.921,A,5903.316,N,00556.337,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:26.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 131`] = `
+Object {
+  "faa": null,
+  "lat": 59.05518333333333,
+  "lon": 5.93905,
+  "raw": "$GPRMC,182427.921,A,5903.311,N,00556.343,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:27.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 132`] = `
+Object {
+  "faa": null,
+  "lat": 59.05511666666666,
+  "lon": 5.93915,
+  "raw": "$GPRMC,182428.921,A,5903.307,N,00556.349,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:28.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 133`] = `
+Object {
+  "faa": null,
+  "lat": 59.05505,
+  "lon": 5.9392499999999995,
+  "raw": "$GPRMC,182429.921,A,5903.303,N,00556.355,E,019.4,127.8,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:29.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 134`] = `
+Object {
+  "faa": null,
+  "lat": 59.054966666666665,
+  "lon": 5.939333333333334,
+  "raw": "$GPRMC,182430.921,A,5903.298,N,00556.360,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:30.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 135`] = `
+Object {
+  "faa": null,
+  "lat": 59.0549,
+  "lon": 5.939433333333334,
+  "raw": "$GPRMC,182431.921,A,5903.294,N,00556.366,E,019.4,127.8,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:31.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 136`] = `
+Object {
+  "faa": null,
+  "lat": 59.05481666666667,
+  "lon": 5.939533333333333,
+  "raw": "$GPRMC,182432.921,A,5903.289,N,00556.372,E,019.4,127.8,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:32.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 137`] = `
+Object {
+  "faa": null,
+  "lat": 59.05475,
+  "lon": 5.939633333333333,
+  "raw": "$GPRMC,182433.921,A,5903.285,N,00556.378,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:33.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 138`] = `
+Object {
+  "faa": null,
+  "lat": 59.05466666666667,
+  "lon": 5.939733333333333,
+  "raw": "$GPRMC,182434.921,A,5903.280,N,00556.384,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:34.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 139`] = `
+Object {
+  "faa": null,
+  "lat": 59.0546,
+  "lon": 5.9398333333333335,
+  "raw": "$GPRMC,182435.921,A,5903.276,N,00556.390,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:35.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 140`] = `
+Object {
+  "faa": null,
+  "lat": 59.054516666666665,
+  "lon": 5.939916666666667,
+  "raw": "$GPRMC,182436.921,A,5903.271,N,00556.395,E,019.4,127.8,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:36.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 141`] = `
+Object {
+  "faa": null,
+  "lat": 59.05445,
+  "lon": 5.940016666666667,
+  "raw": "$GPRMC,182437.921,A,5903.267,N,00556.401,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:37.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 142`] = `
+Object {
+  "faa": null,
+  "lat": 59.05436666666667,
+  "lon": 5.9401166666666665,
+  "raw": "$GPRMC,182438.921,A,5903.262,N,00556.407,E,019.4,127.8,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:38.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 143`] = `
+Object {
+  "faa": null,
+  "lat": 59.0543,
+  "lon": 5.940216666666666,
+  "raw": "$GPRMC,182439.921,A,5903.258,N,00556.413,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:39.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 144`] = `
+Object {
+  "faa": null,
+  "lat": 59.05421666666667,
+  "lon": 5.940316666666667,
+  "raw": "$GPRMC,182440.921,A,5903.253,N,00556.419,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:40.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 145`] = `
+Object {
+  "faa": null,
+  "lat": 59.05415,
+  "lon": 5.940416666666667,
+  "raw": "$GPRMC,182441.921,A,5903.249,N,00556.425,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:41.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 146`] = `
+Object {
+  "faa": null,
+  "lat": 59.054066666666664,
+  "lon": 5.9405,
+  "raw": "$GPRMC,182442.921,A,5903.244,N,00556.430,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:42.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 147`] = `
+Object {
+  "faa": null,
+  "lat": 59.054,
+  "lon": 5.9406,
+  "raw": "$GPRMC,182443.921,A,5903.240,N,00556.436,E,019.4,127.8,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:43.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 148`] = `
+Object {
+  "faa": null,
+  "lat": 59.053916666666666,
+  "lon": 5.9407,
+  "raw": "$GPRMC,182444.921,A,5903.235,N,00556.442,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:44.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 149`] = `
+Object {
+  "faa": null,
+  "lat": 59.05385,
+  "lon": 5.9408,
+  "raw": "$GPRMC,182445.921,A,5903.231,N,00556.448,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:45.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 150`] = `
+Object {
+  "faa": null,
+  "lat": 59.05376666666667,
+  "lon": 5.9409,
+  "raw": "$GPRMC,182446.921,A,5903.226,N,00556.454,E,019.4,127.8,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:46.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 151`] = `
+Object {
+  "faa": null,
+  "lat": 59.0537,
+  "lon": 5.9409833333333335,
+  "raw": "$GPRMC,182447.921,A,5903.222,N,00556.459,E,019.4,127.8,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:47.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 152`] = `
+Object {
+  "faa": null,
+  "lat": 59.05361666666667,
+  "lon": 5.941083333333333,
+  "raw": "$GPRMC,182448.921,A,5903.217,N,00556.465,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:48.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 153`] = `
+Object {
+  "faa": null,
+  "lat": 59.05355,
+  "lon": 5.941183333333333,
+  "raw": "$GPRMC,182449.921,A,5903.213,N,00556.471,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:49.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 154`] = `
+Object {
+  "faa": null,
+  "lat": 59.053466666666665,
+  "lon": 5.941283333333333,
+  "raw": "$GPRMC,182450.921,A,5903.208,N,00556.477,E,019.4,127.8,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:50.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 155`] = `
+Object {
+  "faa": null,
+  "lat": 59.0534,
+  "lon": 5.9413833333333335,
+  "raw": "$GPRMC,182451.921,A,5903.204,N,00556.483,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:51.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 156`] = `
+Object {
+  "faa": null,
+  "lat": 59.05331666666667,
+  "lon": 5.941483333333333,
+  "raw": "$GPRMC,182452.921,A,5903.199,N,00556.489,E,019.4,127.8,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:52.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 157`] = `
+Object {
+  "faa": null,
+  "lat": 59.05325,
+  "lon": 5.941566666666667,
+  "raw": "$GPRMC,182453.921,A,5903.195,N,00556.494,E,019.4,127.8,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:53.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 158`] = `
+Object {
+  "faa": null,
+  "lat": 59.05316666666667,
+  "lon": 5.941666666666666,
+  "raw": "$GPRMC,182454.921,A,5903.190,N,00556.500,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:54.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 159`] = `
+Object {
+  "faa": null,
+  "lat": 59.0531,
+  "lon": 5.941766666666666,
+  "raw": "$GPRMC,182455.921,A,5903.186,N,00556.506,E,019.4,127.8,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:55.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 160`] = `
+Object {
+  "faa": null,
+  "lat": 59.053016666666664,
+  "lon": 5.941866666666667,
+  "raw": "$GPRMC,182456.921,A,5903.181,N,00556.512,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:56.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 161`] = `
+Object {
+  "faa": null,
+  "lat": 59.05295,
+  "lon": 5.941966666666667,
+  "raw": "$GPRMC,182457.921,A,5903.177,N,00556.518,E,019.4,127.8,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:57.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 162`] = `
+Object {
+  "faa": null,
+  "lat": 59.05286666666667,
+  "lon": 5.94205,
+  "raw": "$GPRMC,182458.921,A,5903.172,N,00556.523,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:58.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 163`] = `
+Object {
+  "faa": null,
+  "lat": 59.0528,
+  "lon": 5.94215,
+  "raw": "$GPRMC,182459.921,A,5903.168,N,00556.529,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:24:59.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 164`] = `
+Object {
+  "faa": null,
+  "lat": 59.05271666666667,
+  "lon": 5.94225,
+  "raw": "$GPRMC,182500.921,A,5903.163,N,00556.535,E,019.4,127.8,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:00.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 165`] = `
+Object {
+  "faa": null,
+  "lat": 59.05265,
+  "lon": 5.94235,
+  "raw": "$GPRMC,182501.921,A,5903.159,N,00556.541,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:01.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 166`] = `
+Object {
+  "faa": null,
+  "lat": 59.052566666666664,
+  "lon": 5.94245,
+  "raw": "$GPRMC,182502.921,A,5903.154,N,00556.547,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:02.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 167`] = `
+Object {
+  "faa": null,
+  "lat": 59.0525,
+  "lon": 5.94255,
+  "raw": "$GPRMC,182503.921,A,5903.150,N,00556.553,E,019.4,127.8,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:03.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 168`] = `
+Object {
+  "faa": null,
+  "lat": 59.052416666666666,
+  "lon": 5.942633333333333,
+  "raw": "$GPRMC,182504.921,A,5903.145,N,00556.558,E,019.4,127.8,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:04.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 169`] = `
+Object {
+  "faa": null,
+  "lat": 59.05235,
+  "lon": 5.942733333333333,
+  "raw": "$GPRMC,182505.921,A,5903.141,N,00556.564,E,019.4,127.8,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:05.921Z,
+  "track": 127.8,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 170`] = `
+Object {
+  "faa": null,
+  "lat": 59.05226666666667,
+  "lon": 5.942833333333334,
+  "raw": "$GPRMC,182506.921,A,5903.136,N,00556.570,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:06.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 171`] = `
+Object {
+  "faa": null,
+  "lat": 59.05225,
+  "lon": 5.943,
+  "raw": "$GPRMC,182507.921,A,5903.135,N,00556.580,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:07.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 172`] = `
+Object {
+  "faa": null,
+  "lat": 59.052233333333334,
+  "lon": 5.9431666666666665,
+  "raw": "$GPRMC,182508.921,A,5903.134,N,00556.590,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:08.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 173`] = `
+Object {
+  "faa": null,
+  "lat": 59.0522,
+  "lon": 5.94335,
+  "raw": "$GPRMC,182509.921,A,5903.132,N,00556.601,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:09.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 174`] = `
+Object {
+  "faa": null,
+  "lat": 59.05218333333333,
+  "lon": 5.943516666666667,
+  "raw": "$GPRMC,182510.921,A,5903.131,N,00556.611,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:10.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 175`] = `
+Object {
+  "faa": null,
+  "lat": 59.052166666666665,
+  "lon": 5.943683333333333,
+  "raw": "$GPRMC,182511.921,A,5903.130,N,00556.621,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:11.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 176`] = `
+Object {
+  "faa": null,
+  "lat": 59.05213333333333,
+  "lon": 5.94385,
+  "raw": "$GPRMC,182512.921,A,5903.128,N,00556.631,E,019.4,097.5,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:12.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 177`] = `
+Object {
+  "faa": null,
+  "lat": 59.05211666666667,
+  "lon": 5.944016666666666,
+  "raw": "$GPRMC,182513.921,A,5903.127,N,00556.641,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:13.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 178`] = `
+Object {
+  "faa": null,
+  "lat": 59.0521,
+  "lon": 5.944183333333333,
+  "raw": "$GPRMC,182514.921,A,5903.126,N,00556.651,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:14.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 179`] = `
+Object {
+  "faa": null,
+  "lat": 59.05206666666667,
+  "lon": 5.944366666666666,
+  "raw": "$GPRMC,182515.921,A,5903.124,N,00556.662,E,019.4,097.5,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:15.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 180`] = `
+Object {
+  "faa": null,
+  "lat": 59.05205,
+  "lon": 5.944533333333333,
+  "raw": "$GPRMC,182516.921,A,5903.123,N,00556.672,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:16.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 181`] = `
+Object {
+  "faa": null,
+  "lat": 59.052033333333334,
+  "lon": 5.9447,
+  "raw": "$GPRMC,182517.921,A,5903.122,N,00556.682,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:17.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 182`] = `
+Object {
+  "faa": null,
+  "lat": 59.052,
+  "lon": 5.944866666666667,
+  "raw": "$GPRMC,182518.921,A,5903.120,N,00556.692,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:18.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 183`] = `
+Object {
+  "faa": null,
+  "lat": 59.05198333333333,
+  "lon": 5.945033333333333,
+  "raw": "$GPRMC,182519.921,A,5903.119,N,00556.702,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:19.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 184`] = `
+Object {
+  "faa": null,
+  "lat": 59.051966666666665,
+  "lon": 5.9452,
+  "raw": "$GPRMC,182520.921,A,5903.118,N,00556.712,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:20.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 185`] = `
+Object {
+  "faa": null,
+  "lat": 59.05193333333333,
+  "lon": 5.945383333333333,
+  "raw": "$GPRMC,182521.921,A,5903.116,N,00556.723,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:21.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 186`] = `
+Object {
+  "faa": null,
+  "lat": 59.05191666666666,
+  "lon": 5.94555,
+  "raw": "$GPRMC,182522.921,A,5903.115,N,00556.733,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:22.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 187`] = `
+Object {
+  "faa": null,
+  "lat": 59.0519,
+  "lon": 5.945716666666667,
+  "raw": "$GPRMC,182523.921,A,5903.114,N,00556.743,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:23.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 188`] = `
+Object {
+  "faa": null,
+  "lat": 59.05186666666667,
+  "lon": 5.945883333333334,
+  "raw": "$GPRMC,182524.921,A,5903.112,N,00556.753,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:24.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 189`] = `
+Object {
+  "faa": null,
+  "lat": 59.05185,
+  "lon": 5.94605,
+  "raw": "$GPRMC,182525.921,A,5903.111,N,00556.763,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:25.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 190`] = `
+Object {
+  "faa": null,
+  "lat": 59.051833333333335,
+  "lon": 5.9462166666666665,
+  "raw": "$GPRMC,182526.921,A,5903.110,N,00556.773,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:26.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 191`] = `
+Object {
+  "faa": null,
+  "lat": 59.0518,
+  "lon": 5.946383333333333,
+  "raw": "$GPRMC,182527.921,A,5903.108,N,00556.783,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:27.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 192`] = `
+Object {
+  "faa": null,
+  "lat": 59.05178333333333,
+  "lon": 5.946566666666667,
+  "raw": "$GPRMC,182528.921,A,5903.107,N,00556.794,E,019.4,097.5,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:28.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 193`] = `
+Object {
+  "faa": null,
+  "lat": 59.051766666666666,
+  "lon": 5.946733333333333,
+  "raw": "$GPRMC,182529.921,A,5903.106,N,00556.804,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:29.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 194`] = `
+Object {
+  "faa": null,
+  "lat": 59.05173333333333,
+  "lon": 5.9469,
+  "raw": "$GPRMC,182530.921,A,5903.104,N,00556.814,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:30.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 195`] = `
+Object {
+  "faa": null,
+  "lat": 59.051716666666664,
+  "lon": 5.947066666666666,
+  "raw": "$GPRMC,182531.921,A,5903.103,N,00556.824,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:31.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 196`] = `
+Object {
+  "faa": null,
+  "lat": 59.0517,
+  "lon": 5.947233333333333,
+  "raw": "$GPRMC,182532.921,A,5903.102,N,00556.834,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:32.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 197`] = `
+Object {
+  "faa": null,
+  "lat": 59.05166666666667,
+  "lon": 5.9474,
+  "raw": "$GPRMC,182533.921,A,5903.100,N,00556.844,E,019.4,097.5,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:33.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 198`] = `
+Object {
+  "faa": null,
+  "lat": 59.05165,
+  "lon": 5.947583333333333,
+  "raw": "$GPRMC,182534.921,A,5903.099,N,00556.855,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:34.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 199`] = `
+Object {
+  "faa": null,
+  "lat": 59.051633333333335,
+  "lon": 5.94775,
+  "raw": "$GPRMC,182535.921,A,5903.098,N,00556.865,E,019.4,097.5,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:35.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 200`] = `
+Object {
+  "faa": null,
+  "lat": 59.0516,
+  "lon": 5.947916666666667,
+  "raw": "$GPRMC,182536.921,A,5903.096,N,00556.875,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:36.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 201`] = `
+Object {
+  "faa": null,
+  "lat": 59.05158333333333,
+  "lon": 5.948083333333333,
+  "raw": "$GPRMC,182537.921,A,5903.095,N,00556.885,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:37.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 202`] = `
+Object {
+  "faa": null,
+  "lat": 59.051566666666666,
+  "lon": 5.94825,
+  "raw": "$GPRMC,182538.921,A,5903.094,N,00556.895,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:38.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 203`] = `
+Object {
+  "faa": null,
+  "lat": 59.05153333333333,
+  "lon": 5.948416666666667,
+  "raw": "$GPRMC,182539.921,A,5903.092,N,00556.905,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:39.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 204`] = `
+Object {
+  "faa": null,
+  "lat": 59.051516666666664,
+  "lon": 5.9486,
+  "raw": "$GPRMC,182540.921,A,5903.091,N,00556.916,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:40.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 205`] = `
+Object {
+  "faa": null,
+  "lat": 59.0515,
+  "lon": 5.948766666666667,
+  "raw": "$GPRMC,182541.921,A,5903.090,N,00556.926,E,019.4,097.5,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:41.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 206`] = `
+Object {
+  "faa": null,
+  "lat": 59.05146666666667,
+  "lon": 5.948933333333334,
+  "raw": "$GPRMC,182542.921,A,5903.088,N,00556.936,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:42.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 207`] = `
+Object {
+  "faa": null,
+  "lat": 59.05145,
+  "lon": 5.9491,
+  "raw": "$GPRMC,182543.921,A,5903.087,N,00556.946,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:43.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 208`] = `
+Object {
+  "faa": null,
+  "lat": 59.051433333333335,
+  "lon": 5.9492666666666665,
+  "raw": "$GPRMC,182544.921,A,5903.086,N,00556.956,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:44.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 209`] = `
+Object {
+  "faa": null,
+  "lat": 59.0514,
+  "lon": 5.949433333333333,
+  "raw": "$GPRMC,182545.921,A,5903.084,N,00556.966,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:45.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 210`] = `
+Object {
+  "faa": null,
+  "lat": 59.051383333333334,
+  "lon": 5.9496166666666666,
+  "raw": "$GPRMC,182546.921,A,5903.083,N,00556.977,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:46.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 211`] = `
+Object {
+  "faa": null,
+  "lat": 59.05136666666667,
+  "lon": 5.949783333333333,
+  "raw": "$GPRMC,182547.921,A,5903.082,N,00556.987,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:47.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 212`] = `
+Object {
+  "faa": null,
+  "lat": 59.05133333333333,
+  "lon": 5.94995,
+  "raw": "$GPRMC,182548.921,A,5903.080,N,00556.997,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:48.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 213`] = `
+Object {
+  "faa": null,
+  "lat": 59.051316666666665,
+  "lon": 5.950116666666666,
+  "raw": "$GPRMC,182549.921,A,5903.079,N,00557.007,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:49.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 214`] = `
+Object {
+  "faa": null,
+  "lat": 59.0513,
+  "lon": 5.950283333333333,
+  "raw": "$GPRMC,182550.921,A,5903.078,N,00557.017,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:50.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 215`] = `
+Object {
+  "faa": null,
+  "lat": 59.05126666666666,
+  "lon": 5.95045,
+  "raw": "$GPRMC,182551.921,A,5903.076,N,00557.027,E,019.4,097.5,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:51.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 216`] = `
+Object {
+  "faa": null,
+  "lat": 59.05125,
+  "lon": 5.950633333333333,
+  "raw": "$GPRMC,182552.921,A,5903.075,N,00557.038,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:52.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 217`] = `
+Object {
+  "faa": null,
+  "lat": 59.05121666666667,
+  "lon": 5.9508,
+  "raw": "$GPRMC,182553.921,A,5903.073,N,00557.048,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:53.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 218`] = `
+Object {
+  "faa": null,
+  "lat": 59.0512,
+  "lon": 5.950966666666667,
+  "raw": "$GPRMC,182554.921,A,5903.072,N,00557.058,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:54.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 219`] = `
+Object {
+  "faa": null,
+  "lat": 59.051183333333334,
+  "lon": 5.951133333333333,
+  "raw": "$GPRMC,182555.921,A,5903.071,N,00557.068,E,019.4,097.5,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:55.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 220`] = `
+Object {
+  "faa": null,
+  "lat": 59.05115,
+  "lon": 5.9513,
+  "raw": "$GPRMC,182556.921,A,5903.069,N,00557.078,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:56.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 221`] = `
+Object {
+  "faa": null,
+  "lat": 59.05113333333333,
+  "lon": 5.951466666666667,
+  "raw": "$GPRMC,182557.921,A,5903.068,N,00557.088,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:57.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 222`] = `
+Object {
+  "faa": null,
+  "lat": 59.051116666666665,
+  "lon": 5.95165,
+  "raw": "$GPRMC,182558.921,A,5903.067,N,00557.099,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:58.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 223`] = `
+Object {
+  "faa": null,
+  "lat": 59.05108333333333,
+  "lon": 5.951816666666667,
+  "raw": "$GPRMC,182559.921,A,5903.065,N,00557.109,E,019.4,097.5,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:25:59.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 224`] = `
+Object {
+  "faa": null,
+  "lat": 59.051066666666664,
+  "lon": 5.951983333333334,
+  "raw": "$GPRMC,182600.921,A,5903.064,N,00557.119,E,019.4,097.5,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:00.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 225`] = `
+Object {
+  "faa": null,
+  "lat": 59.05105,
+  "lon": 5.95215,
+  "raw": "$GPRMC,182601.921,A,5903.063,N,00557.129,E,019.4,097.5,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:01.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 226`] = `
+Object {
+  "faa": null,
+  "lat": 59.05101666666667,
+  "lon": 5.9523166666666665,
+  "raw": "$GPRMC,182602.921,A,5903.061,N,00557.139,E,019.4,097.5,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:02.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 227`] = `
+Object {
+  "faa": null,
+  "lat": 59.051,
+  "lon": 5.952483333333333,
+  "raw": "$GPRMC,182603.921,A,5903.060,N,00557.149,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:03.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 228`] = `
+Object {
+  "faa": null,
+  "lat": 59.050983333333335,
+  "lon": 5.9526666666666666,
+  "raw": "$GPRMC,182604.921,A,5903.059,N,00557.160,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:04.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 229`] = `
+Object {
+  "faa": null,
+  "lat": 59.05095,
+  "lon": 5.952833333333333,
+  "raw": "$GPRMC,182605.921,A,5903.057,N,00557.170,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:05.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 230`] = `
+Object {
+  "faa": null,
+  "lat": 59.05093333333333,
+  "lon": 5.953,
+  "raw": "$GPRMC,182606.921,A,5903.056,N,00557.180,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:06.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 231`] = `
+Object {
+  "faa": null,
+  "lat": 59.050916666666666,
+  "lon": 5.953166666666666,
+  "raw": "$GPRMC,182607.921,A,5903.055,N,00557.190,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:07.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 232`] = `
+Object {
+  "faa": null,
+  "lat": 59.05088333333333,
+  "lon": 5.953333333333333,
+  "raw": "$GPRMC,182608.921,A,5903.053,N,00557.200,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:08.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 233`] = `
+Object {
+  "faa": null,
+  "lat": 59.050866666666664,
+  "lon": 5.9535,
+  "raw": "$GPRMC,182609.921,A,5903.052,N,00557.210,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:09.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 234`] = `
+Object {
+  "faa": null,
+  "lat": 59.05085,
+  "lon": 5.953683333333333,
+  "raw": "$GPRMC,182610.921,A,5903.051,N,00557.221,E,019.4,097.5,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:10.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 235`] = `
+Object {
+  "faa": null,
+  "lat": 59.05081666666667,
+  "lon": 5.95385,
+  "raw": "$GPRMC,182611.921,A,5903.049,N,00557.231,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:11.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 236`] = `
+Object {
+  "faa": null,
+  "lat": 59.0508,
+  "lon": 5.954016666666667,
+  "raw": "$GPRMC,182612.921,A,5903.048,N,00557.241,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:12.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 237`] = `
+Object {
+  "faa": null,
+  "lat": 59.050783333333335,
+  "lon": 5.954183333333333,
+  "raw": "$GPRMC,182613.921,A,5903.047,N,00557.251,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:13.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 238`] = `
+Object {
+  "faa": null,
+  "lat": 59.05075,
+  "lon": 5.95435,
+  "raw": "$GPRMC,182614.921,A,5903.045,N,00557.261,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:14.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 239`] = `
+Object {
+  "faa": null,
+  "lat": 59.05073333333333,
+  "lon": 5.954516666666667,
+  "raw": "$GPRMC,182615.921,A,5903.044,N,00557.271,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:15.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 240`] = `
+Object {
+  "faa": null,
+  "lat": 59.050716666666666,
+  "lon": 5.9547,
+  "raw": "$GPRMC,182616.921,A,5903.043,N,00557.282,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:16.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 241`] = `
+Object {
+  "faa": null,
+  "lat": 59.05068333333333,
+  "lon": 5.954866666666667,
+  "raw": "$GPRMC,182617.921,A,5903.041,N,00557.292,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:17.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 242`] = `
+Object {
+  "faa": null,
+  "lat": 59.050666666666665,
+  "lon": 5.955033333333334,
+  "raw": "$GPRMC,182618.921,A,5903.040,N,00557.302,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:18.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 243`] = `
+Object {
+  "faa": null,
+  "lat": 59.05065,
+  "lon": 5.9552,
+  "raw": "$GPRMC,182619.921,A,5903.039,N,00557.312,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:19.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 244`] = `
+Object {
+  "faa": null,
+  "lat": 59.05061666666667,
+  "lon": 5.9553666666666665,
+  "raw": "$GPRMC,182620.921,A,5903.037,N,00557.322,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:20.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 245`] = `
+Object {
+  "faa": null,
+  "lat": 59.0506,
+  "lon": 5.955533333333333,
+  "raw": "$GPRMC,182621.921,A,5903.036,N,00557.332,E,019.4,097.5,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:21.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 246`] = `
+Object {
+  "faa": null,
+  "lat": 59.050583333333336,
+  "lon": 5.9557166666666665,
+  "raw": "$GPRMC,182622.921,A,5903.035,N,00557.343,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:22.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 247`] = `
+Object {
+  "faa": null,
+  "lat": 59.05055,
+  "lon": 5.955883333333333,
+  "raw": "$GPRMC,182623.921,A,5903.033,N,00557.353,E,019.4,097.5,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:23.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 248`] = `
+Object {
+  "faa": null,
+  "lat": 59.050533333333334,
+  "lon": 5.95605,
+  "raw": "$GPRMC,182624.921,A,5903.032,N,00557.363,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:24.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 249`] = `
+Object {
+  "faa": null,
+  "lat": 59.05051666666667,
+  "lon": 5.956216666666666,
+  "raw": "$GPRMC,182625.921,A,5903.031,N,00557.373,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:25.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 250`] = `
+Object {
+  "faa": null,
+  "lat": 59.05048333333333,
+  "lon": 5.956383333333333,
+  "raw": "$GPRMC,182626.921,A,5903.029,N,00557.383,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:26.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 251`] = `
+Object {
+  "faa": null,
+  "lat": 59.050466666666665,
+  "lon": 5.95655,
+  "raw": "$GPRMC,182627.921,A,5903.028,N,00557.393,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:27.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 252`] = `
+Object {
+  "faa": null,
+  "lat": 59.05045,
+  "lon": 5.956733333333333,
+  "raw": "$GPRMC,182628.921,A,5903.027,N,00557.404,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:28.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 253`] = `
+Object {
+  "faa": null,
+  "lat": 59.05041666666666,
+  "lon": 5.9569,
+  "raw": "$GPRMC,182629.921,A,5903.025,N,00557.414,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:29.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 254`] = `
+Object {
+  "faa": null,
+  "lat": 59.0504,
+  "lon": 5.957066666666667,
+  "raw": "$GPRMC,182630.921,A,5903.024,N,00557.424,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:30.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 255`] = `
+Object {
+  "faa": null,
+  "lat": 59.050383333333336,
+  "lon": 5.957233333333333,
+  "raw": "$GPRMC,182631.921,A,5903.023,N,00557.434,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:31.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 256`] = `
+Object {
+  "faa": null,
+  "lat": 59.05035,
+  "lon": 5.9574,
+  "raw": "$GPRMC,182632.921,A,5903.021,N,00557.444,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:32.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 257`] = `
+Object {
+  "faa": null,
+  "lat": 59.050333333333334,
+  "lon": 5.957566666666667,
+  "raw": "$GPRMC,182633.921,A,5903.020,N,00557.454,E,019.4,097.5,121217,000.0,W*73",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:33.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 258`] = `
+Object {
+  "faa": null,
+  "lat": 59.05031666666667,
+  "lon": 5.9577333333333335,
+  "raw": "$GPRMC,182634.921,A,5903.019,N,00557.464,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:34.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 259`] = `
+Object {
+  "faa": null,
+  "lat": 59.05028333333333,
+  "lon": 5.957916666666667,
+  "raw": "$GPRMC,182635.921,A,5903.017,N,00557.475,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:35.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 260`] = `
+Object {
+  "faa": null,
+  "lat": 59.050266666666666,
+  "lon": 5.958083333333334,
+  "raw": "$GPRMC,182636.921,A,5903.016,N,00557.485,E,019.4,097.5,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:36.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 261`] = `
+Object {
+  "faa": null,
+  "lat": 59.05025,
+  "lon": 5.95825,
+  "raw": "$GPRMC,182637.921,A,5903.015,N,00557.495,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:37.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 262`] = `
+Object {
+  "faa": null,
+  "lat": 59.050216666666664,
+  "lon": 5.9584166666666665,
+  "raw": "$GPRMC,182638.921,A,5903.013,N,00557.505,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:38.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 263`] = `
+Object {
+  "faa": null,
+  "lat": 59.0502,
+  "lon": 5.958583333333333,
+  "raw": "$GPRMC,182639.921,A,5903.012,N,00557.515,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:39.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 264`] = `
+Object {
+  "faa": null,
+  "lat": 59.05018333333334,
+  "lon": 5.95875,
+  "raw": "$GPRMC,182640.921,A,5903.011,N,00557.525,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:40.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 265`] = `
+Object {
+  "faa": null,
+  "lat": 59.05015,
+  "lon": 5.958933333333333,
+  "raw": "$GPRMC,182641.921,A,5903.009,N,00557.536,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:41.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 266`] = `
+Object {
+  "faa": null,
+  "lat": 59.050133333333335,
+  "lon": 5.9591,
+  "raw": "$GPRMC,182642.921,A,5903.008,N,00557.546,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:42.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 267`] = `
+Object {
+  "faa": null,
+  "lat": 59.05011666666667,
+  "lon": 5.959266666666666,
+  "raw": "$GPRMC,182643.921,A,5903.007,N,00557.556,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:43.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 268`] = `
+Object {
+  "faa": null,
+  "lat": 59.05008333333333,
+  "lon": 5.959433333333333,
+  "raw": "$GPRMC,182644.921,A,5903.005,N,00557.566,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:44.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 269`] = `
+Object {
+  "faa": null,
+  "lat": 59.050066666666666,
+  "lon": 5.9596,
+  "raw": "$GPRMC,182645.921,A,5903.004,N,00557.576,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:45.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 270`] = `
+Object {
+  "faa": null,
+  "lat": 59.05005,
+  "lon": 5.959766666666667,
+  "raw": "$GPRMC,182646.921,A,5903.003,N,00557.586,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:46.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 271`] = `
+Object {
+  "faa": null,
+  "lat": 59.050016666666664,
+  "lon": 5.95995,
+  "raw": "$GPRMC,182647.921,A,5903.001,N,00557.597,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:47.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 272`] = `
+Object {
+  "faa": null,
+  "lat": 59.05,
+  "lon": 5.960116666666667,
+  "raw": "$GPRMC,182648.921,A,5903.000,N,00557.607,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:48.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 273`] = `
+Object {
+  "faa": null,
+  "lat": 59.04998333333333,
+  "lon": 5.960283333333333,
+  "raw": "$GPRMC,182649.921,A,5902.999,N,00557.617,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:49.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 274`] = `
+Object {
+  "faa": null,
+  "lat": 59.04995,
+  "lon": 5.96045,
+  "raw": "$GPRMC,182650.921,A,5902.997,N,00557.627,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:50.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 275`] = `
+Object {
+  "faa": null,
+  "lat": 59.049933333333335,
+  "lon": 5.960616666666667,
+  "raw": "$GPRMC,182651.921,A,5902.996,N,00557.637,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:51.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 276`] = `
+Object {
+  "faa": null,
+  "lat": 59.04991666666667,
+  "lon": 5.9607833333333335,
+  "raw": "$GPRMC,182652.921,A,5902.995,N,00557.647,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:52.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 277`] = `
+Object {
+  "faa": null,
+  "lat": 59.049883333333334,
+  "lon": 5.960966666666667,
+  "raw": "$GPRMC,182653.921,A,5902.993,N,00557.658,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:53.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 278`] = `
+Object {
+  "faa": null,
+  "lat": 59.04986666666667,
+  "lon": 5.961133333333334,
+  "raw": "$GPRMC,182654.921,A,5902.992,N,00557.668,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:54.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 279`] = `
+Object {
+  "faa": null,
+  "lat": 59.04985,
+  "lon": 5.9613,
+  "raw": "$GPRMC,182655.921,A,5902.991,N,00557.678,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:55.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 280`] = `
+Object {
+  "faa": null,
+  "lat": 59.049816666666665,
+  "lon": 5.9614666666666665,
+  "raw": "$GPRMC,182656.921,A,5902.989,N,00557.688,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:56.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 281`] = `
+Object {
+  "faa": null,
+  "lat": 59.0498,
+  "lon": 5.961633333333333,
+  "raw": "$GPRMC,182657.921,A,5902.988,N,00557.698,E,019.4,097.5,121217,000.0,W*79",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:57.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 282`] = `
+Object {
+  "faa": null,
+  "lat": 59.04978333333333,
+  "lon": 5.9618,
+  "raw": "$GPRMC,182658.921,A,5902.987,N,00557.708,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:58.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 283`] = `
+Object {
+  "faa": null,
+  "lat": 59.04975,
+  "lon": 5.961983333333333,
+  "raw": "$GPRMC,182659.921,A,5902.985,N,00557.719,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:26:59.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 284`] = `
+Object {
+  "faa": null,
+  "lat": 59.049733333333336,
+  "lon": 5.96215,
+  "raw": "$GPRMC,182700.921,A,5902.984,N,00557.729,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:00.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 285`] = `
+Object {
+  "faa": null,
+  "lat": 59.04971666666667,
+  "lon": 5.962316666666666,
+  "raw": "$GPRMC,182701.921,A,5902.983,N,00557.739,E,019.4,097.5,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:01.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 286`] = `
+Object {
+  "faa": null,
+  "lat": 59.049683333333334,
+  "lon": 5.962483333333333,
+  "raw": "$GPRMC,182702.921,A,5902.981,N,00557.749,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:02.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 287`] = `
+Object {
+  "faa": null,
+  "lat": 59.04966666666667,
+  "lon": 5.96265,
+  "raw": "$GPRMC,182703.921,A,5902.980,N,00557.759,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:03.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 288`] = `
+Object {
+  "faa": null,
+  "lat": 59.04963333333333,
+  "lon": 5.962816666666667,
+  "raw": "$GPRMC,182704.921,A,5902.978,N,00557.769,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:04.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 289`] = `
+Object {
+  "faa": null,
+  "lat": 59.049616666666665,
+  "lon": 5.963,
+  "raw": "$GPRMC,182705.921,A,5902.977,N,00557.780,E,019.4,097.5,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:05.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 290`] = `
+Object {
+  "faa": null,
+  "lat": 59.0496,
+  "lon": 5.963166666666667,
+  "raw": "$GPRMC,182706.921,A,5902.976,N,00557.790,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:06.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 291`] = `
+Object {
+  "faa": null,
+  "lat": 59.049566666666664,
+  "lon": 5.963333333333333,
+  "raw": "$GPRMC,182707.921,A,5902.974,N,00557.800,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:07.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 292`] = `
+Object {
+  "faa": null,
+  "lat": 59.04955,
+  "lon": 5.9635,
+  "raw": "$GPRMC,182708.921,A,5902.973,N,00557.810,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:08.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 293`] = `
+Object {
+  "faa": null,
+  "lat": 59.049533333333336,
+  "lon": 5.963666666666667,
+  "raw": "$GPRMC,182709.921,A,5902.972,N,00557.820,E,019.4,097.5,121217,000.0,W*7B",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:09.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 294`] = `
+Object {
+  "faa": null,
+  "lat": 59.0495,
+  "lon": 5.9638333333333335,
+  "raw": "$GPRMC,182710.921,A,5902.970,N,00557.830,E,019.4,097.5,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:10.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 295`] = `
+Object {
+  "faa": null,
+  "lat": 59.049483333333335,
+  "lon": 5.964016666666667,
+  "raw": "$GPRMC,182711.921,A,5902.969,N,00557.841,E,019.4,097.5,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:11.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 296`] = `
+Object {
+  "faa": null,
+  "lat": 59.04946666666667,
+  "lon": 5.964183333333334,
+  "raw": "$GPRMC,182712.921,A,5902.968,N,00557.851,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:12.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 297`] = `
+Object {
+  "faa": null,
+  "lat": 59.04943333333333,
+  "lon": 5.96435,
+  "raw": "$GPRMC,182713.921,A,5902.966,N,00557.861,E,019.4,097.5,121217,000.0,W*70",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:13.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 298`] = `
+Object {
+  "faa": null,
+  "lat": 59.049416666666666,
+  "lon": 5.9645166666666665,
+  "raw": "$GPRMC,182714.921,A,5902.965,N,00557.871,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:14.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 299`] = `
+Object {
+  "faa": null,
+  "lat": 59.0494,
+  "lon": 5.964683333333333,
+  "raw": "$GPRMC,182715.921,A,5902.964,N,00557.881,E,019.4,097.5,121217,000.0,W*7A",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:15.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 300`] = `
+Object {
+  "faa": null,
+  "lat": 59.049366666666664,
+  "lon": 5.96485,
+  "raw": "$GPRMC,182716.921,A,5902.962,N,00557.891,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:16.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 301`] = `
+Object {
+  "faa": null,
+  "lat": 59.04935,
+  "lon": 5.965033333333333,
+  "raw": "$GPRMC,182717.921,A,5902.961,N,00557.902,E,019.4,097.5,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:17.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 302`] = `
+Object {
+  "faa": null,
+  "lat": 59.04933333333334,
+  "lon": 5.9652,
+  "raw": "$GPRMC,182718.921,A,5902.960,N,00557.912,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:18.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 303`] = `
+Object {
+  "faa": null,
+  "lat": 59.0493,
+  "lon": 5.965366666666666,
+  "raw": "$GPRMC,182719.921,A,5902.958,N,00557.922,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:19.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 304`] = `
+Object {
+  "faa": null,
+  "lat": 59.049283333333335,
+  "lon": 5.965533333333333,
+  "raw": "$GPRMC,182720.921,A,5902.957,N,00557.932,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:20.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 305`] = `
+Object {
+  "faa": null,
+  "lat": 59.04926666666667,
+  "lon": 5.9657,
+  "raw": "$GPRMC,182721.921,A,5902.956,N,00557.942,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:21.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 306`] = `
+Object {
+  "faa": null,
+  "lat": 59.04923333333333,
+  "lon": 5.965866666666667,
+  "raw": "$GPRMC,182722.921,A,5902.954,N,00557.952,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:22.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 307`] = `
+Object {
+  "faa": null,
+  "lat": 59.049216666666666,
+  "lon": 5.96605,
+  "raw": "$GPRMC,182723.921,A,5902.953,N,00557.963,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:23.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 308`] = `
+Object {
+  "faa": null,
+  "lat": 59.0492,
+  "lon": 5.966216666666667,
+  "raw": "$GPRMC,182724.921,A,5902.952,N,00557.973,E,019.4,097.5,121217,000.0,W*71",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:24.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 309`] = `
+Object {
+  "faa": null,
+  "lat": 59.049166666666665,
+  "lon": 5.966383333333333,
+  "raw": "$GPRMC,182725.921,A,5902.950,N,00557.983,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:25.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 310`] = `
+Object {
+  "faa": null,
+  "lat": 59.04915,
+  "lon": 5.96655,
+  "raw": "$GPRMC,182726.921,A,5902.949,N,00557.993,E,019.4,097.5,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:26.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 311`] = `
+Object {
+  "faa": null,
+  "lat": 59.04913333333333,
+  "lon": 5.966716666666667,
+  "raw": "$GPRMC,182727.921,A,5902.948,N,00558.003,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:27.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 312`] = `
+Object {
+  "faa": null,
+  "lat": 59.0491,
+  "lon": 5.9668833333333335,
+  "raw": "$GPRMC,182728.921,A,5902.946,N,00558.013,E,019.4,097.5,121217,000.0,W*78",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:28.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 313`] = `
+Object {
+  "faa": null,
+  "lat": 59.049083333333336,
+  "lon": 5.967066666666667,
+  "raw": "$GPRMC,182729.921,A,5902.945,N,00558.024,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:29.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 314`] = `
+Object {
+  "faa": null,
+  "lat": 59.04906666666667,
+  "lon": 5.967233333333334,
+  "raw": "$GPRMC,182730.921,A,5902.944,N,00558.034,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:30.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 315`] = `
+Object {
+  "faa": null,
+  "lat": 59.049033333333334,
+  "lon": 5.9674,
+  "raw": "$GPRMC,182731.921,A,5902.942,N,00558.044,E,019.4,097.5,121217,000.0,W*76",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:31.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 316`] = `
+Object {
+  "faa": null,
+  "lat": 59.04901666666667,
+  "lon": 5.9675666666666665,
+  "raw": "$GPRMC,182732.921,A,5902.941,N,00558.054,E,019.4,097.5,121217,000.0,W*77",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:32.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 317`] = `
+Object {
+  "faa": null,
+  "lat": 59.049,
+  "lon": 5.967733333333333,
+  "raw": "$GPRMC,182733.921,A,5902.940,N,00558.064,E,019.4,097.5,121217,000.0,W*74",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:33.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 318`] = `
+Object {
+  "faa": null,
+  "lat": 59.048966666666665,
+  "lon": 5.9679,
+  "raw": "$GPRMC,182734.921,A,5902.938,N,00558.074,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:34.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 319`] = `
+Object {
+  "faa": null,
+  "lat": 59.04895,
+  "lon": 5.968083333333333,
+  "raw": "$GPRMC,182735.921,A,5902.937,N,00558.085,E,019.4,097.5,121217,000.0,W*7D",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:35.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 320`] = `
+Object {
+  "faa": null,
+  "lat": 59.04893333333333,
+  "lon": 5.96825,
+  "raw": "$GPRMC,182736.921,A,5902.936,N,00558.095,E,019.4,097.5,121217,000.0,W*7E",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:36.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 321`] = `
+Object {
+  "faa": null,
+  "lat": 59.0489,
+  "lon": 5.968416666666666,
+  "raw": "$GPRMC,182737.921,A,5902.934,N,00558.105,E,019.4,097.5,121217,000.0,W*75",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:37.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 322`] = `
+Object {
+  "faa": null,
+  "lat": 59.048883333333336,
+  "lon": 5.968583333333333,
+  "raw": "$GPRMC,182738.921,A,5902.933,N,00558.115,E,019.4,097.5,121217,000.0,W*7C",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:38.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 323`] = `
+Object {
+  "faa": null,
+  "lat": 59.04886666666667,
+  "lon": 5.96875,
+  "raw": "$GPRMC,182739.921,A,5902.932,N,00558.125,E,019.4,097.5,121217,000.0,W*7F",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:39.921Z,
+  "track": 97.5,
+  "type": "RMC",
+  "valid": true,
+  "variation": -0,
+}
+`;
+
+exports[`GPS module reads RMC data from port 324`] = `
+Object {
+  "faa": null,
+  "lat": 59.048833333333334,
+  "lon": 5.968916666666667,
+  "raw": "$GPRMC,182740.921,A,5902.930,N,00558.135,E,019.4,097.5,121217,000.0,W*72",
+  "speed": 35.9288,
+  "status": "active",
+  "time": 2017-12-12T18:27:40.921Z,
+  "track": 97.5,
   "type": "RMC",
   "valid": true,
   "variation": -0,
