@@ -52,7 +52,7 @@
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            6.01845045999994,59.04661153,0
+            6.0944,59.04865,0
           </coordinates>
         </Point>
       </Placemark>
@@ -61,7 +61,7 @@
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            6.30284634999998,59.08882076,0
+            6.19825,59.06462,0
           </coordinates>
         </Point>
       </Placemark>
@@ -70,16 +70,16 @@
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            6.57871367000007,59.06561761,0
+            6.32065,59.08952,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>finish</name>
+        <name>4</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
-            6.50055946999998,59.14423978,0
+            6.50057,59.14423,0
           </coordinates>
         </Point>
       </Placemark>
